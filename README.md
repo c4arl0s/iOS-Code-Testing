@@ -4,7 +4,10 @@
 
 Project to implement Test Driven Development over an iOS App.
 
-1. [Introduction to Test-Driven Development](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#1-introduction-to-test-driven-development-1)
+<details><summary>1. Introduction to Test-driven Development</summary>
+<p>
+
+1. [Introduction to Test-driven Development](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#1-introduction-to-test-driven-development-1)
      - [x] [What is Test-Driven Development](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#what-is-test-driven-development)
         + [x] [TDD Terminology](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#-tdd-terminology)
         + [x] [Subject under test](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#-subject-under-test)
@@ -20,6 +23,12 @@ Project to implement Test Driven Development over an iOS App.
         + [x] [Red - Green - Refactor](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#-red---green---refactor)
         + [x] [Write the Minimum Amount of Code](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#-write-the-minimum-amount-of-code)
         + [x] [Remove Duplication](https://github.com/c4arl0s/1-Introduction-to-Test-Driven-Development#-remove-duplication)
+</p>
+</details>
+
+<details><summary>2. Writing Your First Set of Unit Tests with Xcode</summary>
+<p>
+
 2. [Writing Your First Set of Unit Tests with Xcode](https://github.com/c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode#2-writing-your-first-set-of-unit-tests-with-xcode---content)
      - [x] [Downloading and Installing Xcode](https://github.com/c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode#--downloading-and-installing-xcode)
      - [x] [Creating a New Project with Unit Test Support](https://github.com/c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode#--creating-a-new-project-with-unit-test-support)
@@ -34,6 +43,12 @@ Project to implement Test Driven Development over an iOS App.
         + [x] [Building the CookieController Class](https://github.com/c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode#-building-the-cookiecontroller-class)
         + [x] [Updating the View Controller Class](https://github.com/c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode#-updating-the-view-controller-class)
         + [x] [Viewing Code Coverage Data](https://github.com/c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode#-viewing-code-coverage-data)
+</p>
+</details>
+
+<details><summary>3. The MVVM Architectural Patter</summary>
+<p>
+
 3. [The MVVM Architectural Patter](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#3-the-mvvm-architectural-pattern---content)
     - [x] [The MVC Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#3-the-mvvm-architectural-pattern)
     - [x] [The Model-ViewController Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-mvc-architectural-pattern)
@@ -44,6 +59,12 @@ Project to implement Test Driven Development over an iOS App.
         - [x] [Isolated View Controller](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#-isolated-view-controller)
         - [x] [Table View Controllers](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#-table-view-controllers)
         - [x] [Navigation Controller-Based Apps](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#-navigation-controller-based-apps)
+</p>
+</details>
+
+<details><summary>4. Applying TDD to the Model</summary>
+<p>
+
 4. [Applying TDD to the Model](https://github.com/c4arl0s/4-Applying-TDD-to-the-Model#4-applying-tdd-to-the-model---content)
     - [x] [Applying TDD to the Model](https://github.com/c4arl0s/4-Applying-TDD-to-the-Model#applying-tdd-to-the-model)
     - [x] [Creating the Xcode Project](https://github.com/c4arl0s/4-Applying-TDD-to-the-Model#creating-the-xcode-project)
@@ -55,6 +76,8 @@ Project to implement Test Driven Development over an iOS App.
     - [ ] [The Transaction Class](https://github.com/c4arl0s/4-Applying-TDD-to-the-Model#the-transaction-class)
     - [ ] [The BankAccount Class](https://github.com/c4arl0s/4-Applying-TDD-to-the-Model#the-bankaccount-class)
     - [ ] [Testing Core Data](https://github.com/c4arl0s/4-Applying-TDD-to-the-Model#testing-core-data)
+</p>
+</details>
 <!--- 5. [Applying TDD to View Controllers]()
      - [ ] [Application Architecture]()
          + [ ] [Creating The Xcode Project]()
