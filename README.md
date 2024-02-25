@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s#test-driven-development-on-ios)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [iOS-Code-Testing](https://github.com/c4arl0s/iOS-Code-Testing#go-back-to-overview)
 
 Project to implement Test Driven Development over an iOS App.

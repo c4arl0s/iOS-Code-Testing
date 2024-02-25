@@ -1,0 +1,12 @@
+[submodule "1-Introduction-to-Test-Driven-Development"]
+	path = 1-Introduction-to-Test-Driven-Development
+	url = git@github.com:c4arl0s/1-Introduction-to-Test-Driven-Development.git
+[submodule "2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode"]
+	path = 2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode
+	url = git@github.com:c4arl0s/2-Writing-Your-First-Set-of-Unit-Tests-with-Xcode.git
+[submodule "3-The-MVVM-Architectural-Pattern"]
+	path = 3-The-MVVM-Architectural-Pattern
+	url = git@github.com:c4arl0s/3-The-MVVM-Architectural-Pattern.git
+[submodule "iOS-Code-Testing"]
+	path = iOS-Code-Testing
+	url = git@github.com:c4arl0s/iOS-Code-Testing.git
