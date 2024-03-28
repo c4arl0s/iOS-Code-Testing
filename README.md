@@ -7,6 +7,12 @@ git submodule init
 git submodule update --remote --merge
 ```
 
+# Notes:
+
+To run UI test on real device, different profile is required to configure as UITest target runs on different process as different app.
+
+For simulator, developer provisioning profile is ok. But if you want to run UI Tests on real devices, you need separate developer provisioning profile.
+
 # [iOS-Code-Testing](https://github.com/c4arl0s/iOS-Code-Testing#go-back-to-overview)
 
 Project to implement Test Driven Development over an iOS App.
