@@ -3,6 +3,7 @@
 In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
 
 ```console
+git submodule init
 git submodule update --remote --merge
 ```
 
@@ -237,3 +238,48 @@ Project to implement Test Driven Development over an iOS App.
      - [ ] [Waiting Before Asserting]()
      - [ ] [Putting It All Together]()
 ---> 
+
+<details><summary>13. Testing The User Interface</summary>
+<p>
+
+# [13-Testing-the-User-interface - Content](https://github.com/c4arl0s/13-testing-the-user-interface#go-back-to-overview)
+
+1. [ ] [1. Introduction](https://github.com/c4arl0s/13-testing-the-user-interface#1-Introduction)
+2. [ ] [2. Adding Supporet for UI Testing to your Project](https://github.com/c4arl0s/13-testing-the-user-interface#2-Adding-Supporet-for-UI-Testing-to-your-Project)
+3. [ ] [3. New Projects](https://github.com/c4arl0s/13-testing-the-user-interface#3-New-Projects)
+4. [ ] [4. Existing Projects](https://github.com/c4arl0s/13-testing-the-user-interface#4-Existing-Projects)
+5. [ ] [5. UI Test Classes](https://github.com/c4arl0s/13-testing-the-user-interface#5-UI-Test-Classes)
+6. [ ] [6. Creating New Test Classes](https://github.com/c4arl0s/13-testing-the-user-interface#6-Creating-New-Test-Classes)
+7. [ ] [7. Changes to XCTest to Support UI Testing](https://github.com/c4arl0s/13-testing-the-user-interface#7-Changes-to-XCTest-to-Support-UI-Testing)
+8. [ ] [8. XCUIApplication](https://github.com/c4arl0s/13-testing-the-user-interface#8-XCUIApplication)
+9. [ ] [9. XCUIDevice](https://github.com/c4arl0s/13-testing-the-user-interface#9-XCUIDevice)
+10. [ ] [10. XCUIElementAttributes](https://github.com/c4arl0s/13-testing-the-user-interface#10-XCUIElementAttributes)
+11. [ ] [11. XCUIElementQuery and XCUIElementTypeQueryProvider](https://github.com/c4arl0s/13-testing-the-user-interface#11-XCUIElementQuery-and-XCUIElementTypeQueryProvider)
+12. [ ] [12. Assertions](https://github.com/c4arl0s/13-testing-the-user-interface#12-Assertions)
+13. [ ] [13. UI Recording](https://github.com/c4arl0s/13-testing-the-user-interface#13-UI-Recording)
+14. [ ] [14. Waiting Before Asserting](https://github.com/c4arl0s/13-testing-the-user-interface#14-Waiting-Before-Asserting)
+15. [ ] [15. Putting It All Together](https://github.com/c4arl0s/13-testing-the-user-interface#15-Putting-It-All-Together)
+16. [ ] [16. Summary](https://github.com/c4arl0s/13-testing-the-user-interface#16-Summary)
+
+13. [Testing the User Interface](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+
+# 1. [Introduction](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 2. [Adding Supporet for UI Testing to your Project](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 3. [New Projects](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 4. [Existing Projects](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 5. [UI Test Classes](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 6. [Creating New Test Classes](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 7. [Changes to XCTest to Support UI Testing](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 8. [XCUIApplication](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 9. [XCUIDevice](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 10. [XCUIElementAttributes](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 11. [XCUIElementQuery and XCUIElementTypeQueryProvider](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 12. [Assertions](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 13. [UI Recording](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 14. [Waiting Before Asserting](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 15. [Putting It All Together](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+# 16. [Summary](https://github.com/c4arl0s/13-testing-the-user-interface#13-testing-the-user-interface---content)
+ 
+</p>
+</details>
+

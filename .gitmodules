@@ -10,3 +10,6 @@
 [submodule "iOS-Code-Testing"]
 	path = iOS-Code-Testing
 	url = git@github.com:c4arl0s/iOS-Code-Testing.git
+[submodule "13-Testing-the-User-interface"]
+	path = 13-Testing-the-User-interface
+	url = git@github.com:c4arl0s/13-Testing-the-User-interface.git
