@@ -3,8 +3,8 @@
 In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
 
 ```console
-git submodule init
-git submodule update --remote --merge
+git submodule update --init --recursive
+git pull --recurse-submodules
 ```
 
 # Notes:
